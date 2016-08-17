@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\work\\studioWorkspace\\LeanMessage\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_member_menu.xml",
+        "source": "D:\\work\\studioWorkspace\\LeanMessage\\app\\src\\main\\res\\menu\\activity_member_menu.xml"
+    },
+    {
+        "merged": "D:\\work\\studioWorkspace\\LeanMessage\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_square.xml",
+        "source": "D:\\work\\studioWorkspace\\LeanMessage\\app\\src\\main\\res\\menu\\menu_square.xml"
+    },
+    {
+        "merged": "D:\\work\\studioWorkspace\\LeanMessage\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\work\\studioWorkspace\\LeanMessage\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

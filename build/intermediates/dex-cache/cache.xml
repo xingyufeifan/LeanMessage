@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-2.4.0_d0be68b257645ef061654467128188fd9c116ad1\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b79f990c8fa6daefddd089cd7c68f9a447c8260f">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bc64507130edbfca3c194b60ab5c5434c7dd1d4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\fastjson\1.1.39-leancloud\94d4ebd4acdaf01d7445435382eea2d2d38e7534\fastjson-1.1.39-leancloud.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.1.39-leancloud_2ad5845f38fddc28cec69c7f5f90555b38bd30ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\avoscloud-sdk\v3.13.15\b4bf10fa0677adecc8e7bc5766614e0d1397ad44\avoscloud-sdk-v3.13.15.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b4bf10fa0677adecc8e7bc5766614e0d1397ad44">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\avoscloud-sdk-v3.13.15_7b1e3253608ffff576d8f7253bd4597c556492a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_b65d1292af2bbace0342d01ec069964ad884d8d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\2.6.1\d9521f2aecb909835746b7a5facf612af5e890e8\protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-java-2.6.1_85fbae9068f269482af0c7fcaad5b0ee1c3082b6\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_2c6c4951f3fdcfaa147f65a25e40ad68f769f309\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okio\1.6.0-leancloud\7086c00a30a6de0ee3b963ec2c3702d37f1de11d\okio-1.6.0-leancloud.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0-leancloud_a13c6b8c8eb332bbb26852db8074a5d4b0e61cfa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\Java-WebSocket\1.3.1-leancloud\b2e07c7789af93de587a1d0c9441fb0e74fd16e0\Java-WebSocket-1.3.1-leancloud.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b2e07c7789af93de587a1d0c9441fb0e74fd16e0">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.1-leancloud_171a65be2a659b788c3f1343905883761a8ea6ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\com.github.stuxuhai\jpinyin\1.0\1147a356363940a13f955933d6fbab0622b189f7\jpinyin-1.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1147a356363940a13f955933d6fbab0622b189f7">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\jpinyin-1.0_bcb3a424e00d0a96388a611b7561dbb3fe7e0dae\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-21.0.3_3b7c387028f8ad1bc91e055facad694ab030d77e\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_3aae970f0c2b3b59169a91c91fb684838ae51ef5\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_66686a9f991186ef0709c858347571ec2998de40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\63484\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okhttp\2.6.0-leancloud\7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930\okhttp-2.6.0-leancloud.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.6.0-leancloud_4d533d7946a77775434eb15e6f3dc1203d1b85eb\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7f2b46d9faf0461da839e27f56af7f61fd83c2e6">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc37a7ccd31afb8b2da405552fe555774dea25ac\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_6fe2f35272d0ecbb4c69992990c7f2f0298f0369\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_c4c24b9c8d26710a1634d9e880d256ed3d7f8f73\classes.dex" />
+    </item>
+    <item
+        jar="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\exploded-aar\cn.leancloud.android\avoscloud-push\v3.13.15\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c76367c3e9d94d42d9c21b100115f7cf00e94c1e">
+        <dex dex="D:\work\studioWorkspace\LeanMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.leancloud.android-avoscloud-push-v3.13.15_abd87dc1689d2554b2d0fc477d08fad44d164e23\classes.dex" />
+    </item>
+
+</items>
